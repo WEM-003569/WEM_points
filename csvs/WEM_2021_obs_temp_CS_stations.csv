@@ -1,0 +1,56 @@
+field_1,Agency_Code,Project,National_Station_ID,Latitude,Longitude,Deployment,Deployment_Position,Vertical_Reference,Calculated_mAHD
+0,DWER,CSMOORING,"6147030",-32.15660018,115.7027292,Profile,m from Surface,Water Surface,-22.2603
+1,DWER,CSMOORING,"6147035",-32.2001199,115.7406544,Profile,m from Surface,Water Surface,-16.6408
+2,DWER,CSMOORING,"6147031",-32.25080006,115.7283213,Profile,m from Surface,Water Surface,-19.1526
+3,DWER,CSMOORING,"6147034",-32.26240154,115.714178,Profile,m from Surface,Water Surface,-18.1561
+4,DWER,csmooring,dwermooring6147032,-32.19228159,115.7452496,Floating,1.0m below Surface,m below Surface,-4.7447
+5,DWER,CSMWQ,"6141432",-32.2745,115.7025,Profile,m below Surface,m below Surface.,0
+6,DWER,csmooring,dwermooring6147033,-32.27286493,115.7026804,Floating,1.0m below Surface,m below Surface,-1.0477
+7,DWER,CSMWQ,"6142830",-32.140024,115.762558,Profile,m below Surface,m below Surface.,-5.9675
+8,DWER,csmooring,dwermooring6147036,-32.15743127,115.6793039,Floating,1.0m below Surface,m below Surface,-5.2807
+9,DWER,csmooring,dwermooring6147037,-32.18669751,115.7598478,Floating,1.0m below Surface,m below Surface,-8.2209
+10,DWER,CSMWQ,"6142971",-32.152366,115.720158,Profile,m below Surface,m below Surface.,-19.3144
+11,DWER,CSMWQ,"6142972",-32.14648,115.756724,Profile,m below Surface,m below Surface.,-10.8501
+12,DWER,CSMWQ,"6142973",-32.170703,115.762483,Profile,m below Surface,m below Surface.,-11.1732
+13,DWER,CSMWQ,"6142974",-32.197565,115.719833,Profile,m below Surface,m below Surface.,-20.3222
+14,DWER,CSMWQ,"6142975",-32.209851,115.759566,Profile,m below Surface,m below Surface.,-12.4997
+15,DWER,CSMWQ,"6142976",-32.238934,115.751412,Profile,m below Surface,m below Surface.,-16.8257
+16,DWER,CSMWQ,"6142977",-32.2565,115.740864,Profile,m below Surface,m below Surface.,-17.6492
+17,DWER,CSMWQ,"6142980",-32.229518,115.697969,Profile,m below Surface,m below Surface.,-12.0351
+18,DWER,CSMWQ,"6142983",-32.248232,115.712531,Profile,m below Surface,m below Surface.,-3.2126
+19,DWER,CSMWQ,"6142984",-32.182803,115.73909,Profile,m below Surface,m below Surface.,-10.26
+20,DWER,CSMWQ,"6142985",-32.308838,115.708785,Profile,m below Surface,m below Surface.,-2.9904
+21,DWER,CSMWQ,"6142986",-32.336946,115.722167,Profile,m below Surface,m below Surface.,-17.2342
+22,DWER,CSMWQ,"6142988",-32.215297,115.696612,Profile,m below Surface,m below Surface.,-7.7071
+23,DWER,CSMWQ,"6142989",-32.198595,115.684831,Profile,m below Surface,m below Surface.,-6.1499
+24,DWER,CSMWQ,"6144466",-32.197784,115.765882,Profile,m below Surface,m below Surface.,-10.4978
+25,NASA,ghrsst,NearShorePolygon_10,-32.154998881,115.720920563,Satelite,0.0m below Surface,m below Surface,-19.325
+26,NASA,ghrsst,NearShorePolygon_11,-32.219709609,115.706986189,Satelite,0.0m below Surface,m below Surface,-16.4801
+27,NASA,ghrsst,NearShorePolygon_1,-32.187354523,115.69671935,Satelite,0.0m below Surface,m below Surface,-21.4297
+28,NASA,ghrsst,NearShorePolygon_2,-32.163204378,115.693953201,Satelite,0.0m below Surface,m below Surface,-21.4771
+29,NASA,ghrsst,NearShorePolygon_3,-32.149251627,115.749077371,Satelite,0.0m below Surface,m below Surface,-9.7901
+30,NASA,ghrsst,NearShorePolygon_4,-32.247067743,115.742389148,Satelite,0.0m below Surface,m below Surface,-18.4875
+31,NASA,ghrsst,NearShorePolygon_5,-32.257268478,115.715343263,Satelite,0.0m below Surface,m below Surface,-8.0053
+32,NASA,ghrsst,NearShorePolygon_6,-32.199575066,115.757529172,Satelite,0.0m below Surface,m below Surface,-10.5075
+33,NASA,ghrsst,NearShorePolygon_7,-32.174038269,115.753258895,Satelite,0.0m below Surface,m below Surface,-9.6307
+34,NASA,ghrsst,NearShorePolygon_8,-32.211613242,115.734096238,Satelite,0.0m below Surface,m below Surface,-18.7723
+35,NASA,ghrsst,NearShorePolygon_9,-32.180335634,115.724356568,Satelite,0.0m below Surface,m below Surface,-19.189
+36,NASA,ghrsst,Point_14,-32.19,115.73,Satelite,0.0m below Surface,m below Surface,-18.7444
+37,NASA,ghrsst,Point_15,-32.18,115.75,Satelite,0.0m below Surface,m below Surface,-9.4374
+38,NASA,ghrsst,Point_18,-32.25,115.73,Satelite,0.0m below Surface,m below Surface,-18.6609
+39,NASA,ghrsst,Point_19,-32.2,115.72,Satelite,0.0m below Surface,m below Surface,-20.6173
+40,NASA,ghrsst,Point_20,-32.15,115.72,Satelite,0.0m below Surface,m below Surface,-19.5716
+41,NASA,ghrsst,Point_21,-32.2,115.75,Satelite,0.0m below Surface,m below Surface,-9.4076
+42,NASA,ghrsst,Point_22,-32.18,115.74,Satelite,0.0m below Surface,m below Surface,-8.8543
+43,NASA,ghrsst,Point_23,-32.14,115.75,Satelite,0.0m below Surface,m below Surface,-11.4978
+44,NASA,ghrsst,Point_29,-32.14,115.72,Satelite,0.0m below Surface,m below Surface,-18.9616
+45,NASA,ghrsst,Point_30,-32.14,115.66,Satelite,0.0m below Surface,m below Surface,-10.3217
+46,NASA,ghrsst,Point_6,-32.1,115.69,Satelite,0.0m below Surface,m below Surface,-7.3235
+47,NASA,ghrsst,Point_9,-32.19,115.73,Satelite,0.0m below Surface,m below Surface,-18.7444
+48,WAMSI,WWMSP5_awac,CS2,-32.184,115.6971,Fixed,0.0m below Surface,m below Surface,-21.6163
+49,WAMSI,WWMSP5_awac,CS4,-32.2044,115.75,Fixed,0.0m below Surface,m below Surface,-11.423
+50,WAMSI,WWMSP5_awac,CS3,-32.2522,115.729,Fixed,0.0m below Surface,m below Surface,-19.9949
+51,WAMSI,WWMSP5_awac,CS5,-32.1541,115.7421,Fixed,0.0m below Surface,m below Surface,-9.8907
+52,WAMSI,Regional Ocean Modelling Systems (ROMS),DWER_2km,-32.3397987,115.6833264,Profile,0m below Surface,m below Surface,-13.4312
+53,WAMSI,WWMSP5_wq,CS1,-32.1463,115.6976,Fixed,0.0m below Surface,m below Surface,-21.3219
+54,WAMSI,WWMSP5_wq,CS7,-32.24847,115.6853,Fixed,0.0m below Surface,m below Surface,-5.9504

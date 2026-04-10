@@ -1,0 +1,33 @@
+[
+    {
+        "file": "CS_hydros&waves_2013.csv"
+    },
+    {
+        "file": "CS_pts003_bmt_hd1_copy.csv"
+    },
+    {
+        "file": "Currentdata_point_locations_BMT_ModelIds.csv",
+        "sourceCRS": "EPSG:32750"
+    },
+    {
+        "file": "WEM_2021_obs_sal_CS_stations.csv"
+    },
+    {
+        "file": "WEM_2021_obs_temp_CS_stations.csv"
+    },
+    {
+        "file": "WEM_2022_obs_temp_CS_stations.csv"
+    },
+    {
+        "file": "WEM_2022_sal_temp_CS_stations.csv"
+    },
+    {
+        "file": "WEM_2023_obs_sal_CS_stations.csv"
+    },
+    {
+        "file": "WEM_2023_obs_temp_CS_stations.csv"
+    },
+    {
+        "file": "WQ_stations_2022.csv"
+    }
+]

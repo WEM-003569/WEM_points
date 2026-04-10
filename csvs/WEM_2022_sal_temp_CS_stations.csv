@@ -1,0 +1,45 @@
+field_1,Agency_Code,Project,National_Station_ID,Latitude,Longitude,Deployment,Deployment_Position,Vertical_Reference,Calculated_mAHD
+0,DWER,CSMOORING,"6147030",-32.15660018,115.7027292,Profile,m from Surface,Water Surface,-22.2603
+1,DWER,CSMOORING,"6147034",-32.26240154,115.714178,Profile,m from Surface,Water Surface,-18.1561
+2,DWER,CSMOORING,"6147031",-32.25080006,115.7283213,Profile,m from Surface,Water Surface,-19.1526
+3,DWER,csmooring,dwermooring6147032,-32.19228159,115.7452496,Floating,1.0m below Surface,m below Surface,-4.7447
+4,DWER,csmooring,dwermooring6147033,-32.27286493,115.7026804,Floating,1.0m below Surface,m below Surface,-1.0477
+5,DWER,CSMWQ,"6141432",-32.2745,115.7025,Profile,m below Surface,m below Surface.,0
+6,DWER,CSMWQ,"6142830",-32.140024,115.762558,Profile,m below Surface,m below Surface.,-5.9675
+7,DWER,csmooring,dwermooring6147036,-32.15743127,115.6793039,Floating,1.0m below Surface,m below Surface,-5.2807
+8,DWER,csmooring,dwermooring6147037,-32.18669751,115.7598478,Floating,1.0m below Surface,m below Surface,-8.2209
+9,DWER,CSMWQ,"6142971",-32.152366,115.720158,Integrated,Water Column,m below Surface.,-19.3144
+10,DWER,CSMWQ,"6142972",-32.14648,115.756724,Profile,m below Surface,m below Surface.,-10.8501
+11,DWER,CSMWQ,"6142973",-32.170703,115.762483,Profile,m below Surface,m below Surface.,-11.1732
+12,DWER,CSMWQ,"6142974",-32.197565,115.719833,Profile,m below Surface,m below Surface.,-20.3222
+13,DWER,CSMWQ,"6142975",-32.209851,115.759566,Profile,m below Surface,m below Surface.,-12.4997
+14,DWER,CSMWQ,"6142976",-32.238934,115.751412,Profile,m below Surface,m below Surface.,-16.8257
+15,DWER,CSMWQ,"6142977",-32.2565,115.740864,Profile,m below Surface,m below Surface.,-17.6492
+16,DWER,CSMWQ,"6142980",-32.229518,115.697969,Profile,m below Surface,m below Surface.,-12.0351
+17,DWER,CSMWQ,"6142983",-32.248232,115.712531,Profile,m below Surface,m below Surface.,-3.2126
+18,DWER,CSMWQ,"6142984",-32.182803,115.73909,Profile,m below Surface,m below Surface.,-10.26
+19,DWER,CSMWQ,"6142985",-32.308838,115.708785,Profile,m below Surface,m below Surface.,-2.9904
+20,DWER,CSMWQ,"6142986",-32.336946,115.722167,Profile,m below Surface,m below Surface.,-17.2342
+21,DWER,CSMWQ,"6142988",-32.215297,115.696612,Profile,m below Surface,m below Surface.,-7.7071
+22,DWER,CSMWQ,"6142989",-32.198595,115.684831,Profile,m below Surface,m below Surface.,-6.1499
+23,DWER,CSMWQ,"6144466",-32.197784,115.765882,Profile,m below Surface,m below Surface.,-10.4978
+24,DWER,CSMWQ,"6147035",-32.200106,115.740665,Profile,m below Surface,m below Surface.,-16.6408
+25,MOI,Cockburn Sound Model Virtual Sensor,Point_6,-32.1,115.69,Satelite,0.0m below Surface,m below Surface,-7.3235
+26,MOI,Cockburn Sound Model Virtual Sensor,Point_9,-32.19,115.73,Satelite,0.0m below Surface,m below Surface,-18.7444
+27,WAMSI,WWMSP3.1_CTD,s1310,-32.128416,115.750778,Profile,0.0m below Surface,m below Surface,-7.1059
+28,WAMSI,WWMSP3.1_CTD,AJ,-32.123967,115.757909,Profile,0.0m below Surface,m below Surface,-8.1093
+29,WAMSI,WWMSP3.1_CTD,CSR14,-32.190876,115.74633,Profile,0.0m below Surface,m below Surface,-6.7462
+30,WAMSI,WWMSP3.1_CTD,INLET,-32.200864,115.770445,Profile,0.0m below Surface,m below Surface,-7.5945
+31,WAMSI,WWMSP3.1_CTD,JB16A,-32.173529,115.768373,Profile,0.0m below Surface,m below Surface,-8.1948
+32,WAMSI,WWMSP3.1_CTD,LP,-32.226664,115.746666,Profile,0.0m below Surface,m below Surface,-16.8652
+33,WAMSI,WWMSP3.1_CTD,OA1-DEP,-32.124373,115.726209,Profile,0.0m below Surface,m below Surface,-8.4827
+34,WAMSI,WWMSP3.1_CTD,OA2S,-32.114655,115.706333,Profile,0.0m below Surface,m below Surface,-10.287
+35,WAMSI,WWMSP3.1_CTD,OA3,-32.139635,115.665661,Profile,0.0m below Surface,m below Surface,-11.2342
+36,WAMSI,WWMSP3.1_CTD,OA9S,-32.104168,115.731672,Profile,0.0m below Surface,m below Surface,-8.8147
+37,WAMSI,WWMSP3.1_CTD,S4S10,-32.184894,115.757136,Profile,0.0m below Surface,m below Surface,-7.0864
+38,WAMSI,WWMSP3.1_CTD,SC2,-32.298863,115.686273,Profile,0.0m below Surface,m below Surface,-8.0367
+39,WAMSI,WWMSP3.1_CTD,SC,-32.254165,115.684285,Profile,0.0m below Surface,m below Surface,-7.9017
+40,WAMSI,WWMSP3.1_CTD,SF11,-32.242053,115.721449,Profile,0.0m below Surface,m below Surface,-18.4572
+41,WAMSI,Regional Ocean Modelling Systems (ROMS),DWER_2km,-32.3397987,115.6833264,Profile,0m below Surface,m below Surface,-13.4312
+42,WAMSI,WWMSP5_wq,CS1,-32.1463,115.6976,Fixed,0.0m below Surface,m below Surface,-21.3219
+43,WAMSI,WWMSP5_wq,CS4,-32.2044,115.75,Fixed,0.0m below Surface,m below Surface,-11.423
